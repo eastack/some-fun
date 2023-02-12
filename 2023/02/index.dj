@@ -1,0 +1,33 @@
+# Some Fun
+
+## Effective TypeScript
+
+### Missiles Pragram
+
+Path: Preface xiii
+
+Text: After  reading  the  item,  you  should  understand  why  it  will  help  you  use  TypeScript
+more effectively. You’ll also know enough to understand if it doesn’t apply to your situation.
+Scott Meyers, the author of Effective C++, gives a memorable example of this.
+He met a team of engineers who wrote software that ran on missiles. They knew they
+could  ignore  his  advice  about  preventing  resource  leaks,  because  their  programs
+would  always  terminate  when  the  missile  hit  the  target  and  their  hardware  blew  up.
+I’m  not  aware  of  any  missiles  with  JavaScript  runtimes,  but  the  James  Webb  Space
+Telescope has one, so you never know!
+
+ScreenShot: 2023-02-03_09-45-missiles-program.png
+
+### But still wound up with dangerous any types
+
+ScreenShot: 2023-02-03_09-56-good-translation.png
+
+
+## Heisenbug
+
+WT? [Heisenbug ???]https://en.wikipedia.org/wiki/Heisenbug
+
+
+## Hyper Text Coffee Pot Control Protocol
+
+[Hyper Text Coffee Pot Control Protocol]https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol
+
